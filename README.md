@@ -7,9 +7,14 @@ This section generated a random sample of 2000 cities worldwide and various resp
 ## Vacation Search
 Input statements were retrieved from customers based on their weather preferences. Those preferences were used to identify potential travel destinations and nearby hotels at those locations. A marker layer map with pop-up markers was generated based of their preference and is shown below:
 
-<p>align = center
-  
- 
+<p align="center">
+<img src="https://github.com/smyoung88/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png" title="Vacation Map">
+</p>
+   
 
 ## Vacation Itinerary
 Finally, the customer chose four different cities to travel between. A travel itinerary was created that shows the route between the four cities and a marker layer map with pop-up markers for each city was created and is shown below:
+
+<p align="center">
+<img src="https://github.com/smyoung88/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" title="Travel Itinerary">
+</p>
