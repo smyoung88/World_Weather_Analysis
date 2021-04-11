@@ -13,8 +13,12 @@ Input statements were retrieved from customers based on their weather preference
    
 
 ## Vacation Itinerary
-Finally, the customer chose four different cities to travel between. A travel itinerary was created that shows the route between the four cities and a marker layer map with pop-up markers for each city was created and is shown below:
+Finally, the customer chose four different cities to travel between. A travel itinerary was created that shows the route between the four cities and a marker layer map with pop-up markers for each city. The route and marker layer maps are shown below:
 
+<p align="center">
+<img src="https://github.com/smyoung88/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png" title="Travel Itinerary">
+</p>
+<br><br>
 <p align="center">
 <img src="https://github.com/smyoung88/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" title="Travel Itinerary">
 </p>
